@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>d94ff934-8628-400f-9e84-4bae0385431d</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuderDinner.Contracts\BuderDinner.Contracts.csproj" />
+    <ProjectReference Include="..\BuderDinner.Application\BuderDinner.Application.csproj" />
+    <ProjectReference Include="..\BuderDinner.Infrastructure\BuderDinner.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

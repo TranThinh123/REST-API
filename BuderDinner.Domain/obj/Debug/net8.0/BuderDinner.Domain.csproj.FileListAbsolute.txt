@@ -1,0 +1,11 @@
+D:\CS\BuderDinner\BuderDinner.Domain\bin\Debug\net8.0\BuderDinner.Domain.deps.json
+D:\CS\BuderDinner\BuderDinner.Domain\bin\Debug\net8.0\BuderDinner.Domain.dll
+D:\CS\BuderDinner\BuderDinner.Domain\bin\Debug\net8.0\BuderDinner.Domain.pdb
+D:\CS\BuderDinner\BuderDinner.Domain\obj\Debug\net8.0\BuderDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\BuderDinner\BuderDinner.Domain\obj\Debug\net8.0\BuderDinner.Domain.AssemblyInfoInputs.cache
+D:\CS\BuderDinner\BuderDinner.Domain\obj\Debug\net8.0\BuderDinner.Domain.AssemblyInfo.cs
+D:\CS\BuderDinner\BuderDinner.Domain\obj\Debug\net8.0\BuderDinner.Domain.csproj.CoreCompileInputs.cache
+D:\CS\BuderDinner\BuderDinner.Domain\obj\Debug\net8.0\BuderDinner.Domain.dll
+D:\CS\BuderDinner\BuderDinner.Domain\obj\Debug\net8.0\refint\BuderDinner.Domain.dll
+D:\CS\BuderDinner\BuderDinner.Domain\obj\Debug\net8.0\BuderDinner.Domain.pdb
+D:\CS\BuderDinner\BuderDinner.Domain\obj\Debug\net8.0\ref\BuderDinner.Domain.dll
