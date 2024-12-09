@@ -48,3 +48,4 @@ D:\CS\BuderDinner\BuderDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configur
 D:\CS\BuderDinner\BuderDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\CS\BuderDinner\BuderDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 D:\CS\BuderDinner\BuderDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\CS\BuderDinner\BuderDinner.Api\obj\Debug\net8.0\BuderDinner.Api.sourcelink.json

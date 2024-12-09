@@ -15,3 +15,4 @@ D:\CS\BuderDinner\BuderDinner.Infrastructure\bin\Debug\net8.0\BuderDinner.Applic
 D:\CS\BuderDinner\BuderDinner.Infrastructure\bin\Debug\net8.0\BuderDinner.Domain.pdb
 D:\CS\BuderDinner\BuderDinner.Infrastructure\obj\Debug\net8.0\BuderDinner.Infrastructure.csproj.AssemblyReference.cache
 D:\CS\BuderDinner\BuderDinner.Infrastructure\obj\Debug\net8.0\BuderDin.BC1526A5.Up2Date
+D:\CS\BuderDinner\BuderDinner.Infrastructure\obj\Debug\net8.0\BuderDinner.Infrastructure.sourcelink.json

@@ -13,3 +13,4 @@ D:\CS\BuderDinner\BuderDinner.Application\bin\Debug\net8.0\BuderDinner.Domain.dl
 D:\CS\BuderDinner\BuderDinner.Application\bin\Debug\net8.0\BuderDinner.Domain.pdb
 D:\CS\BuderDinner\BuderDinner.Application\obj\Debug\net8.0\BuderDinner.Application.csproj.AssemblyReference.cache
 D:\CS\BuderDinner\BuderDinner.Application\obj\Debug\net8.0\BuderDin.9B0290E7.Up2Date
+D:\CS\BuderDinner\BuderDinner.Application\obj\Debug\net8.0\BuderDinner.Application.sourcelink.json

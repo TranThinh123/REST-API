@@ -1,6 +1,6 @@
 using BuderDinner.Application.Services.authentication;
 using BuderDinner.Contracts.Authentication;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc; 
 
 namespace BuderDinner.Api.Controllers;
 
@@ -25,10 +25,10 @@ public class AuthenticationController : ControllerBase
             request.Password);
 
         var response = new AuthenticationRespone(
-            authResult.Id,
-            authResult.FirstName,
-            authResult.LastName,
-            authResult.Email,
+            authResult.user.Id,
+            authResult.user.FirstName,
+            authResult.user.LastName,
+            authResult.user.Email,
             authResult.Token);  // Đã sửa từ 'token' thành 'Token'
 
         return Ok(response);
@@ -42,10 +42,10 @@ public class AuthenticationController : ControllerBase
             request.Password);
 
         var response = new AuthenticationRespone(
-            authResult.Id,
-            authResult.FirstName,
-            authResult.LastName,
-            authResult.Email,
+            authResult.user.Id,
+            authResult.user.FirstName,
+            authResult.user.LastName,
+            authResult.user.Email,
             authResult.Token);  // Đã sửa từ 'token' thành 'Token'
 
         return Ok(response);
