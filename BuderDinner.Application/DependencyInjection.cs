@@ -7,11 +7,11 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace BuderDinner.Application;
 
-    public static class DependencyInjection
+public static class DependencyInjection
+{
+    public static IServiceCollection AddApplication(this IServiceCollection services)
     {
-        public static IServiceCollection AddApplication(this IServiceCollection services)
-        {
-            services.AddScoped<IAuthenticationService,  AuthenticationService>();
-            return services;
-        }
+        services.AddScoped<IAuthenticationService, AuthenticationService>();
+        return services;
     }
+}

@@ -4,9 +4,5 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace BuderDinner.Contracts.Authentication;
-    public record RegisterRequest(
-        string FirstName,
-        string LastName,
-        string Email,
-        string Password);
-   
+
+public record RegisterRequest(string FirstName, string LastName, string Email, string Password);

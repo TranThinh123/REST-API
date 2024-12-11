@@ -17,12 +17,16 @@ namespace BuderDinner.Infrastructure.Authentication
     {
         private readonly IDateTimeProvider _dateTimeProvider;
         private readonly JwtSettings _jwtsettings;
-        public JwtTokenGenerator(IDateTimeProvider dateTimeProvider, IOptions<JwtSettings> jwtOptions)
+
+        public JwtTokenGenerator(
+            IDateTimeProvider dateTimeProvider,
+            IOptions<JwtSettings> jwtOptions
+        )
         {
             _dateTimeProvider = dateTimeProvider;
             _jwtsettings = jwtOptions.Value;
-
         }
+
         public string GenerateToken(User user)
         {
             var signingCredentials = new SigningCredentials(
